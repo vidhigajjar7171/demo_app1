@@ -6,7 +6,7 @@ function App() {
   return (
     <>
    
-  <Navbar title="taxt utilities" aboutTxt="about us"></Navbar>
+  <Navbar title="text utilizs" aboutTxt="about us"></Navbar>
   </>
   );
 }
